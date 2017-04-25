@@ -3,7 +3,7 @@ import {render} from 'react-dom';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 import Main from './Main'; // Our custom react component
 
-// Needed for onTouchTap
+// Needed for onTouchTap test git
 // http://stackoverflow.com/a/34015469/988941
 injectTapEventPlugin();
 
